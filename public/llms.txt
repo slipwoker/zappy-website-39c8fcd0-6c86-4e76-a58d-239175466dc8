@@ -1,67 +1,55 @@
-# עידו רכבים — Generative Engine Optimization Map
-
-> A רכב ורכבים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-39c8fcd0.zappy5.app
+https://example.com
 
 ### רכבים
-https://-39c8fcd0.zappy5.app/vehicles
+https://example.com/vehicles
 
 ### פרטי רכב
-https://-39c8fcd0.zappy5.app/vehicle-detail
+https://example.com/vehicle-detail
 
 ### צור קשר
-https://-39c8fcd0.zappy5.app/contact
+https://example.com/contact
 
 ### Products
-https://-39c8fcd0.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - עידו רכבים
 
 ### Product Detail
-https://-39c8fcd0.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - עידו רכבים
 
 ### Category
-https://-39c8fcd0.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - עידו רכבים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-39c8fcd0.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-39c8fcd0.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-39c8fcd0.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About עידו רכבים
-עידו רכבים is a business in the רכב ורכבים industry.
-
-## Target Audience
-- משפחות צעירות
-- נהגים ידידותיים לסביבה
-- אנשי מקצוע עירוניים
-
-## Industry
-רכב ורכבים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-39c8fcd0.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-39c8fcd0.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
