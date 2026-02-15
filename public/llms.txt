@@ -1,6 +1,4 @@
-# עידו רכבים — Generative Engine Optimization Map
-
-> A רכב ורכבים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -68,17 +66,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About עידו רכבים
-עידו רכבים is a business in the רכב ורכבים industry.
-
-## Target Audience
-- משפחות צעירות
-- נהגים ידידותיים לסביבה
-- אנשי מקצוע עירוניים
-
-## Industry
-רכב ורכבים
-
+## About Business
 ---
 
 # Additional Resources
