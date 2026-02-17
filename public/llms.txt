@@ -10,12 +10,12 @@ https://ido-rechavim.zappy5.app
 ### Page
 https://ido-rechavim.zappy5.app/vehicle-detail
 
-### Page
-https://ido-rechavim.zappy5.app/vehicles
-
 ### מוצרים
 https://ido-rechavim.zappy5.app/products
 המוצרים שלנו - עידו רכבים
+
+### Page
+https://ido-rechavim.zappy5.app/vehicles
 
 ### פרטי המוצר
 https://ido-rechavim.zappy5.app/product/:slug
