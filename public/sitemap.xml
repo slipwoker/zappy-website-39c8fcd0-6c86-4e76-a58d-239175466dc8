@@ -20,24 +20,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app" />
   </url>
   <url>
-    <loc>https://ido-rechavim.zappy5.app/vehicles</loc>
-    <lastmod>2026-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://ido-rechavim.zappy5.app/vehicles" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ido-rechavim.zappy5.app/en/vehicles" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/vehicles" />
-  </url>
-  <url>
-    <loc>https://ido-rechavim.zappy5.app/en/vehicles</loc>
-    <lastmod>2026-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://ido-rechavim.zappy5.app/vehicles" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ido-rechavim.zappy5.app/en/vehicles" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/vehicles" />
-  </url>
-  <url>
     <loc>https://ido-rechavim.zappy5.app/vehicle-detail</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,22 +38,22 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/vehicle-detail" />
   </url>
   <url>
-    <loc>https://ido-rechavim.zappy5.app/contact</loc>
+    <loc>https://ido-rechavim.zappy5.app/vehicles</loc>
     <lastmod>2026-02-17</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://ido-rechavim.zappy5.app/contact" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ido-rechavim.zappy5.app/en/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://ido-rechavim.zappy5.app/vehicles" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ido-rechavim.zappy5.app/en/vehicles" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/vehicles" />
   </url>
   <url>
-    <loc>https://ido-rechavim.zappy5.app/en/contact</loc>
+    <loc>https://ido-rechavim.zappy5.app/en/vehicles</loc>
     <lastmod>2026-02-17</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://ido-rechavim.zappy5.app/contact" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ido-rechavim.zappy5.app/en/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://ido-rechavim.zappy5.app/vehicles" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ido-rechavim.zappy5.app/en/vehicles" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/vehicles" />
   </url>
   <url>
     <loc>https://ido-rechavim.zappy5.app/products</loc>
@@ -216,6 +198,24 @@
     <xhtml:link rel="alternate" hreflang="he" href="https://ido-rechavim.zappy5.app/blog/negotiation-tips-used-car" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ido-rechavim.zappy5.app/en/blog/negotiation-tips-used-car" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/blog/negotiation-tips-used-car" />
+  </url>
+  <url>
+    <loc>https://ido-rechavim.zappy5.app/contact</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ido-rechavim.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ido-rechavim.zappy5.app/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/contact" />
+  </url>
+  <url>
+    <loc>https://ido-rechavim.zappy5.app/en/contact</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ido-rechavim.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ido-rechavim.zappy5.app/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ido-rechavim.zappy5.app/contact" />
   </url>
   <url>
     <loc>https://ido-rechavim.zappy5.app/privacy</loc>

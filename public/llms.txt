@@ -4,27 +4,24 @@
 
 ## Pages
 
-### בית
+### Page
 https://ido-rechavim.zappy5.app
 
-### רכבים
-https://ido-rechavim.zappy5.app/vehicles
-
-### פרטי רכב
+### Page
 https://ido-rechavim.zappy5.app/vehicle-detail
 
-### צור קשר
-https://ido-rechavim.zappy5.app/contact
+### Page
+https://ido-rechavim.zappy5.app/vehicles
 
-### Products
+### מוצרים
 https://ido-rechavim.zappy5.app/products
 המוצרים שלנו - עידו רכבים
 
-### Product Detail
+### פרטי המוצר
 https://ido-rechavim.zappy5.app/product/:slug
 פרטי המוצר - עידו רכבים
 
-### Category
+### מוצרים
 https://ido-rechavim.zappy5.app/category/:slug
 מוצרים - עידו רכבים
 
@@ -32,21 +29,24 @@ https://ido-rechavim.zappy5.app/category/:slug
 https://ido-rechavim.zappy5.app/blog
 עידו רכבים - מגזין | עידו רכבים
 
-### צ'קליסט
+### צ'קליסט בדיקה לפני קניית רכב יד שנייה (בלי לפספס כלום) | עידו רכבים
 https://ido-rechavim.zappy5.app/blog/pre-purchase-checklist
 מדריך פרקטי לבדיקת רכב יד שנייה: מסמכים, מצב מכני, שלדה, נסיעת מבחן ומה לשאול את המוכר—כדי לצמצם סיכונים ולנהל מו"מ נכון.
 
-### תחזוקה
+### תחזוקה חכמה ששומרת על ערך הרכב: מה באמת משפיע | עידו רכבים
 https://ido-rechavim.zappy5.app/blog/maintenance-to-save-value
 איך תחזוקה ותיעוד נכון מעלים אמון אצל קונים ומשפרים מחיר מכירה: טיפולים, צמיגים, קוסמטיקה, תיעוד והימנעות מחיסכון מזויף.
 
-### היברידי
+### היברידי או בנזין? איך לבחור לפי נסועה, עלויות וסגנון נהיגה | עידו רכבים
 https://ido-rechavim.zappy5.app/blog/hybrid-vs-gasoline
 מדריך החלטה פשוט לבחירה בין רכב היברידי לרכב בנזין: צריכת דלק בעיר, עלויות תחזוקה, אמינות, נסועה שנתית והתאמה לשגרת נהיגה.
 
-### מו"מ
+### טיפים למו"מ על רכב יד שנייה: איך להוריד מחיר בלי לשרוף את העסקה | עידו רכבים
 https://ido-rechavim.zappy5.app/blog/negotiation-tips-used-car
 שיטות מו"מ ענייניות לרכישת רכב יד שנייה: הכנה למחיר שוק, שימוש בבדיקת מכון, שפת גוף, עוגנים, וסגירה בטוחה בלי לחץ מיותר.
+
+### Page
+https://ido-rechavim.zappy5.app/contact
 
 ## Legal & Policy
 
